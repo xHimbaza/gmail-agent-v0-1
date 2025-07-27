@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+*.log
+
+# macOS
+.DS_Store
+
+# Credentials
+credentials.json
+key.json
+token.json
+
+# VS Code
+.vscode/
